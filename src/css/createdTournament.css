@@ -1,0 +1,46 @@
+.createdTournament, .acceptedTournament {
+    text-align: center;
+    padding-top: 100px;
+    height: 650px;
+}
+
+.createdTournament h2, .acceptedTournament h2 {
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.acceptedTournament .form div {
+    margin-bottom: 30px;
+}
+
+
+.createdTournament .form h3 {
+    margin-top: 40px;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.createdTournament .form h4 {
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.createdTournament .form p {
+    font-size: 25px;
+    font-weight: 250;
+}
+
+.createdTournament .form .submit, .acceptedTournament .form .submit {
+    font-size: 30px;
+    text-align: center;
+    color: #FF9900;
+    line-height: 33px;
+    border: 3px solid #FF9900;
+    border-radius: 3px;
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+    width: 450px;
+}

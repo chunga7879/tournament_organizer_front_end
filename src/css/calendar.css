@@ -1,0 +1,8 @@
+.calendar {
+    text-align: center;
+    min-height: 700px;
+    width: 1000px;
+    position: relative;
+    left: 20%;
+    margin-top: 50px;
+}

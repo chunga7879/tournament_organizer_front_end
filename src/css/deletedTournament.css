@@ -1,0 +1,41 @@
+.deletedTournament, .generatedSchedule {
+    min-height: 750px;
+}
+
+.deletedTournament h2, .generatedSchedule h2 {
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.deletedTournament .form div, .generatedSchedule .form div {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.deletedTournament .form span, .generatedSchedule .form span {
+    font-size: 40px;
+
+}
+
+.deletedTournament .form .submit, .generatedSchedule .form .submit {
+    position: relative;
+    left: 35%;
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: #FF9900;
+    line-height: 33px;
+    border: 2px solid #FF9900;
+    border-radius: 3px;
+    background-color: white;
+    padding: 10px;
+    width: 600px;
+}
+
+.deletedTournament .form .submit:hover, .generatedSchedule .form .submit:hover {
+    background-color: #FF9900;
+    color: white;
+}

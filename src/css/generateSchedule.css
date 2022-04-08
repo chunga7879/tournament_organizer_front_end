@@ -1,0 +1,48 @@
+.generateSchedule {
+    position: relative;
+    left: 20%;
+    min-height: 750px;
+    margin-top: 50px;
+}
+
+.generateSchedule .form h2 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.generateSchedule .form .oneTour {
+    position: relative;
+    display: flex;
+    padding-top: 20px;
+    border: 1px solid #FF9900;
+    width: 1300px;
+    margin-bottom: 5px;
+
+}
+
+.generateSchedule .form .oneTour h3 {
+    font-size: 35px;
+    font-weight: 300;
+    margin-left: 50px;
+}
+
+.generateSchedule .form .formParts button {
+    position: absolute;
+    right: 7px;
+    top: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: #FF9900;
+    line-height: 33px;
+    border: 2px solid #FF9900;
+    border-radius: 3px;
+    background-color: white;
+    padding: 5px;
+    width: 300px;
+}
+
+.generateSchedule .form .formParts button:hover {
+    color: white;
+    background-color: #FF9900;
+
+}
